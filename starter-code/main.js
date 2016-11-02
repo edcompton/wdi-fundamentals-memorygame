@@ -1,4 +1,4 @@
 var cardOne = "queen";
 var cardTwo = "king";
-var cardThree;
-var cardFour;
+var cardThree = "queen";
+var cardFour = "king";;
