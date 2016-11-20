@@ -40,6 +40,11 @@ h2 {
 	display: inline-block;
 }
 
+img {
+	height: 200px;
+	width: 150px;
+}
+
 .card {
 	background-color: rgb(255,255,0);
 	height: 200px;
